@@ -137,5 +137,6 @@
        ;; for your own.
        :private
        default
-       key-chord)
+       key-chord
+       magit)
 
