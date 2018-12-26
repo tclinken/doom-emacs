@@ -1,7 +1,6 @@
 .local/
 .cask/
 var/
-modules/private/
 
 # emacs tempfiles that shouldn't be there
 .mc-lists.el
